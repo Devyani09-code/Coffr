@@ -30,6 +30,6 @@ Some images of the session-based authentication, for secure login and signup bui
 
 ## Visuals
 **Login**[] \
-**Dashboard**[]
-**Current Account**[]
+**Dashboard**[] \
+**Current Account**[] \
 **Fixed Deposit Account**[]
