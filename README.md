@@ -29,7 +29,7 @@ Multithreading safety ensures that transactions stay accurate even when multiple
 Some images of the session-based authentication, for secure login and signup built properly have been added to the repository.
 
 ## Visuals
-**Login**[]
+**Login**[] \
 **Dashboard**[]
 **Current Account**[]
 **Fixed Deposit Account**[]
