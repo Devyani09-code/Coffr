@@ -30,7 +30,7 @@ Multithreading safety ensures that transactions stay accurate even when multiple
 Some images of the session-based authentication, for secure login and signup built properly have been added to the repository.
 
 ## Visuals
-! [**Login**](https://github.com/Devyani09-code/Coffr/blob/main/Login.png) \
+![**Login**](https://github.com/Devyani09-code/Coffr/blob/main/Login.png) \
 ! [**Dashboard**](https://github.com/Devyani09-code/Coffr/blob/main/Dashboard.png) \
 ! [**Current Account**](https://github.com/Devyani09-code/Coffr/blob/main/CurrentAccount.png) \
 ! [**Fixed Deposit Account**](https://github.com/Devyani09-code/Coffr/blob/main/FixedDepositAccount.png)
