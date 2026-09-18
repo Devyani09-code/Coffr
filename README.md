@@ -31,6 +31,6 @@ Some images of the session-based authentication, for secure login and signup bui
 
 ## Visuals
 ! [**Login**](https://github.com/Devyani09-code/Coffr/blob/main/Login.png) \
-**Dashboard**[https://github.com/Devyani09-code/Coffr/blob/main/Dashboard.png] \
-**Current Account**[https://github.com/Devyani09-code/Coffr/blob/main/CurrentAccount.png] \
-**Fixed Deposit Account**[https://github.com/Devyani09-code/Coffr/blob/main/FixedDepositAccount.png]
+! [**Dashboard**](https://github.com/Devyani09-code/Coffr/blob/main/Dashboard.png) \
+! [**Current Account**](https://github.com/Devyani09-code/Coffr/blob/main/CurrentAccount.png) \
+! [**Fixed Deposit Account**](https://github.com/Devyani09-code/Coffr/blob/main/FixedDepositAccount.png)
